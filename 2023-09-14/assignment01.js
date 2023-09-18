@@ -15,5 +15,6 @@ const twoSum = (nums) => {
         }
     }
 }
+
 console.log(twoSum(nums));
 // (2) [0, 3]
